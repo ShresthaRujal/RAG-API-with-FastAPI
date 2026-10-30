@@ -1,0 +1,16 @@
+
+# FastAPI
+fastapi
+uvicorn[standard]
+
+# Configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# LLM
+ollama
+
+# Vector Database
+chromadb
+python-multipart

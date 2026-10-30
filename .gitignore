@@ -1,0 +1,15 @@
+# Environment
+.venv/
+.env
+__pycache__/
+*.pyc
+
+# Database
+chroma_db/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store

@@ -1,0 +1,150 @@
+RUJAL SHRESTHA — RESUME KNOWLEDGE BASE
+=======================================
+
+PURPOSE
+Structured professional information from Rujal Shrestha's supplied resume. Intended for retrieval-augmented generation (RAG), semantic search, and question answering.
+
+CONTACT
+Name: Rujal Shrestha
+Location: Madhyapur Thimi-4, Kathmandu, Nepal
+Phone: +977-9843049192
+Email: shrestharujal1928@gmail.com
+LinkedIn: https://www.linkedin.com/in/rujal-shrestha
+
+PROFESSIONAL SUMMARY
+Lead Engineer with 8+ years of experience architecting and delivering scalable cloud-native platforms, distributed systems, and enterprise applications. Expertise includes Java, Spring Boot, Python, microservices, event-driven architecture, AWS, system design, platform modernization, observability, and security. Experienced in driving technical direction, translating complex requirements into scalable solutions, leading and mentoring engineering teams, and improving system reliability and engineering quality.
+
+Currently leads backend engineering initiatives and contributes to architecture, system design, technical solution development, implementation, code quality, and engineering practices. Uses LLM-assisted engineering workflows for codebase analysis, solution exploration, development, debugging, refactoring, documentation, and technical problem-solving. AI tools used: ChatGPT, Claude, GitHub Copilot, and Windsurf. Applies prompt engineering and validates AI-generated outputs through code review, testing, security considerations, and engineering judgment.
+
+Currently pursuing an MSc in Computer Science with a specialization in Artificial Intelligence and Machine Learning.
+
+CAREER HISTORY
+1. Lead Engineer — Leapfrog Technology Pvt. Ltd. — December 2023 to Present — Kathmandu, Nepal.
+2. Senior Software Engineer — Leapfrog Technology Pvt. Ltd. — October 2021 to December 2023 — Kathmandu, Nepal.
+3. Senior Java Engineer — Fusemachines Nepal Pvt. Ltd. — October 2020 to October 2021 — Kathmandu, Nepal.
+4. Mid-Level Java Developer — InfoDevelopers Pvt. Ltd. — April 2019 to October 2020 — Kathmandu, Nepal.
+5. Java Developer — SysIne Nepal — October 2017 to March 2019 — Kathmandu, Nepal.
+
+EXPERIENCE: LEAD ENGINEER
+Company: Leapfrog Technology Pvt. Ltd.
+Dates: December 2023–Present
+Location: Kathmandu, Nepal
+Project context: UK-based OCEAN project.
+
+Responsibilities:
+- Leads backend engineering initiatives, contributing to architecture, system design, technical solution development, implementation, and engineering standards.
+- Drives technical decisions and architecture discussions, evaluating scalability, maintainability, reliability, security, and operational complexity.
+- Architects and leads cloud-native services using Java, Spring Boot, Python, FastAPI, React, and AWS.
+- Leads modernization by decomposing legacy capabilities into scalable, independently deployable distributed services.
+- Applies LLM-assisted workflows for codebase analysis, solution exploration, development, debugging, refactoring, documentation, and technical problem-solving.
+- Uses ChatGPT, Claude, GitHub Copilot, and Windsurf; validates AI-generated output through code review, testing, security considerations, and engineering judgment.
+- Uses prompt engineering to provide structured technical context and improve AI-assisted engineering output.
+- Improves platform performance through OpenSearch query optimization, indexing strategies, and data-access improvements.
+- Designs resilient REST APIs and distributed services emphasizing performance, fault tolerance, and maintainability.
+- Improves observability through structured logging, distributed tracing, metrics, CloudWatch, Datadog, and Honeycomb.
+- Improves CI/CD and automated testing for reliable, repeatable deployments.
+- Leads and mentors a team of 8 engineers through architecture reviews, code reviews, design discussions, and knowledge sharing.
+- Conducts technical PoCs to validate architectural approaches, evaluate technologies, and guide platform evolution.
+
+Role skills: Java, Spring Boot, Python, FastAPI, React, AWS, cloud-native services, distributed services, microservices, REST APIs, OpenSearch, query optimization, indexing, structured logging, distributed tracing, CloudWatch, Datadog, Honeycomb, CI/CD, automated testing, LLM-assisted engineering, prompt engineering, architecture, technical leadership, team mentoring.
+
+EXPERIENCE: SENIOR SOFTWARE ENGINEER
+Company: Leapfrog Technology Pvt. Ltd.
+Dates: October 2021–December 2023
+Location: Kathmandu, Nepal.
+
+Responsibilities:
+- Designed and delivered Spring Boot microservices for core business capabilities, improving maintainability and enabling independent service deployment.
+- Built scalable backend services and REST APIs using Java, Spring Boot, Spring Cloud, relational databases, and distributed-system patterns.
+- Contributed to architecture discussions, technical solution design, implementation planning, and production support.
+- Led technical PoCs for new technologies and platform capabilities, influencing engineering adoption and architectural decisions.
+- Improved critical backend workflow reliability through unit and integration testing.
+- Mentored engineers through design reviews, code reviews, technical guidance, and knowledge-sharing sessions.
+- Collaborated with product managers, QA engineers, DevOps teams, and stakeholders to translate business requirements into reliable technical solutions.
+- Supported performance optimization, production issue resolution, and continuous improvement of enterprise applications.
+
+Role skills: Java, Spring Boot, Spring Cloud, microservices, REST APIs, relational databases, distributed systems, unit testing, integration testing, architecture, technical PoCs, production support, performance optimization, mentoring, cross-functional collaboration.
+
+EXPERIENCE: SENIOR JAVA ENGINEER
+Company: Fusemachines Nepal Pvt. Ltd.
+Dates: October 2020–October 2021
+Location: Kathmandu, Nepal.
+
+Responsibilities:
+- Developed and maintained enterprise backend systems using Java, Spring Boot, REST APIs, relational databases, and AWS services.
+- Designed and implemented scalable APIs and backend workflows for business-critical applications.
+- Improved API reliability and response times through database query optimization, connection-pool tuning, and Spring Boot performance improvements.
+- Contributed to system design, technical documentation, code reviews, and production issue resolution.
+- Translated business requirements into maintainable technical solutions with cross-functional teams.
+- Supported cloud deployment, monitoring, troubleshooting, and operational improvements.
+- Applied clean code, SOLID principles, design patterns, automated testing, and version-control best practices.
+
+Role skills: Java, Spring Boot, REST APIs, relational databases, AWS, query optimization, connection-pool tuning, system design, technical documentation, code reviews, cloud deployment, monitoring, SOLID, design patterns, automated testing, version control.
+
+EXPERIENCE: MID-LEVEL JAVA DEVELOPER
+Company: InfoDevelopers Pvt. Ltd.
+Dates: April 2019–October 2020
+Location: Kathmandu, Nepal.
+Project context: Financial monitoring platform used across multiple organizations.
+
+Responsibilities:
+- Led backend development for a financial monitoring platform used across multiple organizations.
+- Designed and implemented complex financial workflows with government stakeholders and business teams.
+- Developed Java and Spring services, REST APIs, database integrations, and enterprise business logic.
+- Optimized database queries and application logic to improve processing performance and system responsiveness.
+- Integrated Eureka service discovery for service registration, lookup, and communication across distributed services.
+- Participated in requirements analysis, technical design, implementation, testing, deployment, and production support.
+- Collaborated with QA engineers and stakeholders to validate functionality and resolve production defects.
+- Contributed to code reviews, technical documentation, and continuous improvement of development practices.
+
+Role skills: Java, Spring, REST APIs, database integration, enterprise applications, financial workflows, financial monitoring systems, Eureka, service discovery, distributed services, query optimization, requirements analysis, testing, deployment, production support.
+
+EXPERIENCE: JAVA DEVELOPER
+Company: SysIne Nepal
+Dates: October 2017–March 2019
+Location: Kathmandu, Nepal.
+
+Responsibilities:
+- Developed reusable Java application templates, libraries, and common components adopted across multiple enterprise projects.
+- Led R&D initiatives to standardize application structure, configuration, security, and shared service capabilities.
+- Improved development consistency and delivery efficiency through reusable engineering components.
+- Built backend functionality using Java, Spring, REST APIs, relational databases, and enterprise integration patterns.
+- Participated in application design, implementation, testing, debugging, deployment, and maintenance.
+- Collaborated with senior engineers and project stakeholders to deliver reliable, maintainable software.
+- Contributed to coding standards, documentation, code reviews, and technical knowledge sharing.
+
+Role skills: Java, Spring, REST APIs, relational databases, enterprise integration patterns, reusable libraries, application templates, R&D, application architecture, configuration, security, testing, debugging, deployment, maintenance.
+
+TECHNICAL SKILLS
+Programming languages and frameworks: Java, Spring Boot, Spring Cloud, Python, FastAPI, JavaScript, TypeScript, NestJS, React, Vue.js.
+
+AI and generative AI: Large Language Models (LLMs), LLM-assisted software development, prompt engineering, AI-assisted code generation, code analysis, code review, debugging, refactoring, technical documentation, AI-assisted solution design.
+
+AI tools: ChatGPT, Claude, GitHub Copilot, Windsurf.
+
+Cloud and infrastructure: AWS, EC2, ECS, EKS, S3, DynamoDB, ElastiCache, Lambda, Cognito, API Gateway, CloudWatch, Docker, Kubernetes.
+
+Architecture and distributed systems: Microservices, event-driven architecture, REST APIs, gRPC, distributed systems, Clean Architecture, SOLID, design patterns, scalability, high availability, disaster recovery.
+
+Security: AWS IAM, Cognito, OAuth 2.0, OpenID Connect, JWT, TLS/SSL, secrets management, API security, role-based access control.
+
+Databases: PostgreSQL, Oracle, MongoDB, Amazon DocumentDB, Cassandra, DynamoDB, Redis.
+
+Messaging and search: Apache Kafka, Amazon SQS, Amazon SNS, Elasticsearch, OpenSearch, Eureka.
+
+Testing and observability: JUnit, Mockito, integration testing, Datadog, CloudWatch, Honeycomb, structured logging, distributed tracing, metrics.
+
+Engineering and collaboration: Git, GitHub, Jira, Slack, Travis CI, CI/CD, Feign.
+
+LEADERSHIP AND COLLABORATION
+Leads and mentors a team of 8 engineers in the current Lead Engineer role. Provides technical guidance through architecture reviews, code reviews, design discussions, and knowledge sharing. Has mentored engineers as a Senior Software Engineer. Collaborates with product managers, QA engineers, DevOps teams, government stakeholders, business teams, and other project stakeholders. Participates in technical decision-making, architecture discussions, proof-of-concept development, and engineering practice improvements.
+
+EDUCATION
+Master of Science in Computer Science — Specialization in Artificial Intelligence and Machine Learning — currently pursuing.
+Bachelor of Science in Computer Science and Information Technology (BSc CSIT).
+
+SOURCE AND ACCURACY NOTES
+- This knowledge base is based on the supplied resume.
+- The resume does not specify educational institution names or education dates; do not invent them.
+- The resume does not provide quantified performance improvements, project budgets, or project names beyond the UK-based OCEAN project and the financial monitoring platform; do not invent these details.
+- The current Lead Engineer role is listed as December 2023–Present in the resume.
